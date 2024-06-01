@@ -413,7 +413,9 @@ Primary use:
 }
 
 
-
+.logo-div{
+  width: 8%;
+}
 
 
 
@@ -503,8 +505,12 @@ Primary use:
   /*---------------------------------------------*/
   .respon1 {
     font-size: 120px;
+    line-height: 1.1;
   }
 
+  .logo-div{
+    width: 20%;
+  }
 }
 
 
